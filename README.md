@@ -1,4 +1,3 @@
-Smartlight-Dashboard
 
 ## Getting Started
 
