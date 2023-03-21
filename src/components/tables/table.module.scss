@@ -1,0 +1,14 @@
+.table {
+  thead {
+    tr {
+      th {
+        .th_wrap {
+          display: flex;
+          gap: 0.25rem;
+          align-items: center;
+          white-space: nowrap;
+        }
+      }
+    }
+  }
+}

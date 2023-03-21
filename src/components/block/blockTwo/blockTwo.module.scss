@@ -1,0 +1,21 @@
+.block {
+  background: white;
+  padding: 0.75rem 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  .block_header {
+    margin-bottom: 0.5rem;
+    .block_title {
+      font-size: 1.2rem;
+      margin-bottom: 1px;
+    }
+    .block_desc {
+      font-size: 0.875rem;
+      margin-bottom: 0;
+    }
+  }
+}

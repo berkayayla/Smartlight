@@ -1,0 +1,21 @@
+// $primary: yellow;
+$body-bg: #f4f4f4;
+$font-size-base: 0.975rem;
+$theme_color: #0e2050;
+$theme_color_alt: #36456b;
+$theme_color_border: #273762;
+
+$sidebar_width: 300px;
+
+$grid-gutter-width: 2.25rem;
+$container-padding-x: $grid-gutter-width;
+$border-radius: 3px;
+
+$input-focus-box-shadow: unset;
+
+:root {
+  --theme-color: #{$theme_color};
+  --theme-color-alt: #{$theme_color_alt};
+  --theme-color-border: #{$theme_color_border};
+  --theme-sidebar-width: #{$sidebar_width};
+}

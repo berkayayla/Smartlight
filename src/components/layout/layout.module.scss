@@ -1,0 +1,11 @@
+/*  */
+.content {
+  @media (min-width: 992px) {
+    margin-left: var(--theme-sidebar-width);
+  }
+}
+
+.main {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
